@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Create_Task_for_new_Case__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>If ticked then each time a new Case is created, a new Task will be created also</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Create a new Task on Case Creation</inlineHelpText>
+    <label>Create Task for new Case</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

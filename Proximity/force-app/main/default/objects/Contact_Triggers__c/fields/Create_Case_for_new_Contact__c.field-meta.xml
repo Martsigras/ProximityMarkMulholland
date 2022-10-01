@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Create_Case_for_new_Contact__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>If ticked a new Case will be created for each new Contact</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Create a new Case each time a new Contact is created</inlineHelpText>
+    <label>Create Case for new Contact</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
